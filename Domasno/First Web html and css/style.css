@@ -1,0 +1,116 @@
+.logo {
+
+	height: 50px;
+	width: 110px;
+	padding: 15px;
+	margin-left:60px;
+
+}
+
+div.menu ul{
+
+		width:1200px;
+		list-style: none;
+		padding:0px;
+		margin:0px auto;
+		background: #000;
+		height:30px;
+
+
+	}
+
+	div.menu ul li{
+
+		height: 30px;
+		width: 100px;
+		float: left;
+	}
+
+	div.menu ul li a {
+
+		display: block;
+		height: 30px;
+		width: 100px;
+		color: #fff;
+		font-family: helvetica;
+		text-align: center;
+		text-decoration: none;
+		padding-top: 6px;
+		box-sizing: border-box;
+
+	}
+
+	ul li a:hover {
+
+		background: #FF7A00;
+		font-weight: bold;
+
+	}
+
+	div.head {
+				
+	float: right;
+	width: 900px;
+	font-family: helvetica;
+	background: #e6e6e6;
+	text-align: center;
+	margin-right: 80px;
+	margin-top: 10px;
+	color: #000;
+	box-sizing: border-box;
+
+}	
+
+div.insidetext 	{
+
+	
+	width: 10px;
+	height: 20px;
+	padding:10px;
+	box-sizing:border-box;
+	margin-left: 80px;
+	margin-top: 10px;
+	text-decoration: none;
+
+}
+
+div.insidetext ul li{
+
+		height: 30px;
+		width: 100px;
+		float: left;
+		text-decoration: none;
+
+
+}
+
+div.insidetext ul li a {
+
+display: block;
+text-decoration: none;
+font-family: helvetica;
+text-align: center;
+box-sizing: border-box;
+padding-top: 6px;
+list-style: none;
+color: black;
+
+}
+
+.mushroom {
+
+
+	height: 200px;
+	width: 200px;
+	margin-top: 50px;
+	margin-left: 100px;
+	padding: auto;
+}
+
+
+
+
+
+
+
+
