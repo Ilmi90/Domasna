@@ -1,0 +1,88 @@
+*{
+	padding:0px;
+	margin: 0px;
+}
+
+body {
+
+	margin: 10px;
+	padding: 10px;
+	font-family: sans-serif;
+	background-color: #e7e9e3;
+}
+
+.content {
+
+	width: 220px;
+	height: 381px;
+	background-color: #c2e0e1;
+	border-radius: 6px;
+}
+
+.day {
+
+	color: #ffffff;
+	font-size: 50px;
+	margin: 20 0 0 20px ;
+	padding-left: 10px;
+	display: inline;
+	float:left;
+}
+
+.dayname {
+
+	color:#ffffff;
+	font-size: 15px;
+	margin: 10px;
+	float:left;
+
+}
+.content2{
+
+	width: 220px;
+	height: 191px;
+	background-color: #ffffff;
+}
+.days {
+	height: 191px;
+	list-style: none;
+	float: left;
+	margin: 15px 0 0 15px;
+}
+.days li.daycolor {
+	color: #c2e0e1;
+
+}
+
+.days li{
+	float: left;
+	/*margin: 7px;*/
+	color: #bebfba;
+	width: 28px;
+	height: 28px;
+
+}
+
+.up{
+	height: 191px;
+	width: 220px;
+}
+.down {
+	height: 191px;
+	width: 220px;
+	background-color: #ffffff;
+	border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+}
+
+.april {
+
+	color: #dfeeef;
+}
+	li.dateround {
+
+	background-color: #bebfba;
+	border-radius: 20px;
+	color: white;
+
+}
