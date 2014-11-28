@@ -4,7 +4,6 @@
 }
 
 body {
-
 	margin: 10px;
 	padding: 10px;
 	font-family: sans-serif;
@@ -35,7 +34,6 @@ body {
 	font-size: 15px;
 	margin: 10px;
 	float:left;
-
 }
 .content2{
 
@@ -51,7 +49,6 @@ body {
 }
 .days li.daycolor {
 	color: #c2e0e1;
-
 }
 
 .days li{
@@ -65,7 +62,6 @@ body {
 	padding: 5px 0px 0px 0px;
 	text-align: center;
 }
-
 .up{
 	height: 191px;
 	width: 220px;
@@ -77,16 +73,12 @@ body {
 	border-bottom-left-radius: 6px;
 	border-bottom-right-radius: 6px;
 }
-
 .april {
 
 	color: #dfeeef;
 }
-	li.dateround {
-
+li.dateround {
 	background-color: #bebfba;
 	border-radius: 20px;
 	color: white;
-
-
 }
