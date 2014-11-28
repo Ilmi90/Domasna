@@ -60,7 +60,10 @@ body {
 	color: #bebfba;
 	width: 28px;
 	height: 28px;
-
+	/*border: 1px solid black;*/
+	box-sizing: border-box;
+	padding: 5px 0px 0px 0px;
+	text-align: center;
 }
 
 .up{
@@ -84,5 +87,6 @@ body {
 	background-color: #bebfba;
 	border-radius: 20px;
 	color: white;
+
 
 }
